@@ -28,13 +28,6 @@ This is our brand kit, you'll find the details of how to use our brand assets, a
 
 
 
-
-### Usage
-
- <img src="https://github.com/metallicusdev/brandkit/blob/main/Assets/Usage.png?raw=true" alt="Usages" width="520">
-
-Gradient should be used as primary variation however there are black and white versions if required.
-
 ## Typography
 
 We use Inter because of its versatility. It supports 142 languages, and Metallicus wishes to speak to the world.
