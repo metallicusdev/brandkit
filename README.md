@@ -23,7 +23,7 @@ This is our brand kit, you'll find the details of how to use our brand assets, a
 
 |  Glyph             |   Logo                                                         |  Token                          
 | ----------------- | ------------------------------------------------------------------ |----------------- |
-|  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Glyph/Metal%20Blockchain-glyph-color@4x.png?raw=true" width="120">  |  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Logo/Metal%20Blockchain-white@4x.png?raw=true" width="300">  |  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/METAL%20Token@4x.png?raw=true" width="120">  |
+|  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Glyph/Metal%20Blockchain-glyph-color@4x.png?raw=true" width="120">  |  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Logo/Metal%20Blockchain-white@4x.png?raw=true" width="300">  |  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Logo/METAL%20Token@4x.png?raw=true" width="120">  |
 |  [svg](https://github.com/metallicusdev/brandkit), [png](https://github.com/metallicusdev/brandkit) |  [svg](https://github.com/metallicusdev/brandkit), [png](https://github.com/metallicusdev/brandkit) |  [svg](https://github.com/metallicusdev/brandkit), [png](https://github.com/metallicusdev/brandkit) |
 
 
