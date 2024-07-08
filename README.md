@@ -14,7 +14,7 @@ This is our main brand kit for all Metallicus products.
 - **WebAuth:** Non-custodial Crypto Wallet.
 - **XPR Network:** Layer-1 payments blockchain.
 
-
+[Learn More](https://metallicus.com)
 
 ## Logos
 
@@ -48,7 +48,8 @@ It increases speed across our portfolio of products. It's clear, bold, and elega
 - Inter, -4% Letter Spacing
 [Download Font](https://fonts.google.com/specimen/Inter)
 
-Inter Medium for titles over 128px // Inter Semi Bold for titles under 128px
+- Inter Medium for titles over 128px
+- Inter Semi Bold for titles under 128px
 
 
 ## Colors
