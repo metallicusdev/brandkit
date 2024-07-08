@@ -45,8 +45,8 @@ We use Inter because of its versatility. It supports 142 languages, and Metallic
 It increases speed across our portfolio of products. It's clear, bold, and elegant. We only ever use these four.
 
 ### Font Family
-Inter, -4% Letter Spacing
-[Font](https://fonts.google.com/specimen/Inter)
+- Inter, -4% Letter Spacing
+[Download Font](https://fonts.google.com/specimen/Inter)
 
 Inter Medium for titles over 128px // Inter Semi Bold for titles under 128px
 
