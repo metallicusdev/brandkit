@@ -27,9 +27,10 @@ You will find black and white versions and primary gradient version of all logos
 
 |  Glyph             |   Logo                                                         |  Token                          |
 | ----------------- | ------------------------------------------------------------------ |----------------- |
-|  [All Glyphs](https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Glyph/) |  [All Logos](https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Logo/) |  [All Tokens](https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Token/) |
+|                                  Metal Blockchain                                                         |
 |  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Glyph/Metal%20Blockchain-glyph-color@4x.png?raw=true" width="120">  |  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Logo/Metal%20Blockchain-white@4x.png?raw=true" width="300">  |  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Token/METAL%20Token@4x.png?raw=true" width="120">  |
-
+|     :---:      |     :---:      |     :---:      |
+|  [glyphs](https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Glyph/) |  [logos](https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Logo/) |  [tokens](https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Token/) |
 |  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Glyph/Metal%20Blockchain-glyph-color@4x.png?raw=true" width="120">  |  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Logo/Metal%20Blockchain-white@4x.png?raw=true" width="300">  |  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Token/METAL%20Token@4x.png?raw=true" width="120">  |
 
 
