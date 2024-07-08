@@ -2,7 +2,7 @@
 **The Digital Banking Network**
 
 
-This is our brand kit, you'll find the details of how to use our brand assets, and how we use them.
+This is our main brand kit for all Metallicus products.
 
 ### Products
 - **Metal Blockchain:** Layer-0 Blockchain.
@@ -18,13 +18,17 @@ This is our brand kit, you'll find the details of how to use our brand assets, a
 
 ## Logos
 
+This repo includes all Metallicus product logos in png and svg format.
+
+You will find black and white versions and primary gradient version of all logos.
+
 [Download complete asset pack](https://metallicus.com/brandkit.zip)
 
 
 |  Glyph             |   Logo                                                         |  Token                          
 | ----------------- | ------------------------------------------------------------------ |----------------- |
 |  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Glyph/Metal%20Blockchain-glyph-color@4x.png?raw=true" width="120">  |  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Logo/Metal%20Blockchain-white@4x.png?raw=true" width="300">  |  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Token/METAL%20Token@4x.png?raw=true" width="120">  |
-|  [svg](https://github.com/metallicusdev/brandkit), [png](https://github.com/metallicusdev/brandkit) |  [svg](https://github.com/metallicusdev/brandkit), [png](https://github.com/metallicusdev/brandkit) |  [svg](https://github.com/metallicusdev/brandkit), [png](https://github.com/metallicusdev/brandkit) |
+|  [svg](https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Glyph/Metal%20Blockchain-glyph-color.svg), [png](https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Glyph/Metal%20Blockchain-glyph-color%404x.png) |  [svg](https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Logo/Metal%20Blockchain-white.svg), [png](https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Logo/Metal%20Blockchain-white%404x.png) |  [svg](https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Token/METAL%20Token.svg), [png](https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20Blockchain%20Token/METAL%20Token%404x.png) |
 
 
 
@@ -38,8 +42,7 @@ It increases speed across our portfolio of products. It's clear, bold, and elega
 Inter, -4% Letter Spacing
 [Font](https://fonts.google.com/specimen/Inter)
 
-Inter Medium for titles over 128px
-Inter Semi Bold for titles under 128px
+Inter Medium for titles over 128px // Inter Semi Bold for titles under 128px
 
 
 ## Colors
