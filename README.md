@@ -35,7 +35,7 @@ You will find black and white versions and primary gradient version of all logos
 |  [glyphs](https://github.com/metallicusdev/brandkit/blob/main/Logos/XPR%20Network%20Glyph/) |  [xpr network logos](https://github.com/metallicusdev/brandkit/blob/main/Logos/XPR%20Network%20Logo/) |  [tokens](https://github.com/metallicusdev/brandkit/blob/main/Logos/XPR%20Network%20Token/) |
 |   Metal L2   |
 |  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20L2%20Glyph/Metal%20L2-glyph-color@4x.png?raw=true" width="120">  |  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20L2%20Logo/Metal%20L2-white@4x.png?raw=true" width="300">  |  <img src="https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20L2%20Token/MTL%20L2%20Token%404x.png?raw=true" width="120">  |
-|  [glyphs](https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20L2%20Glyph/) |  [metal l2 logos](https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20L2%20Logo/) |  [tokens](https://github.com/metallicusdev/brandkit/blob/main/Logos/Logos/Metal%20L2%20Token/) |
+|  [glyphs](https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20L2%20Glyph/) |  [metal l2 logos](https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20L2%20Logo/) |  [tokens](https://github.com/metallicusdev/brandkit/blob/main/Logos/Metal%20L2%20Token/) |
 
 
 ## Typography
